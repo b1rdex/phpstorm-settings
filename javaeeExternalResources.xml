@@ -1,0 +1,6 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://partner.market.yandex.ru/pages/help/shops.dtd" location="$USER_HOME$/.PhpStorm2016.2/system/extResources/204980c9_shops.dtd" />
+    <resource url="shops.dtd" location="$USER_HOME$/.PhpStorm2016.2/system/extResources/204980c9_shops.dtd" />
+  </component>
+</application>
