@@ -65,7 +65,7 @@
   </component>
   <component name="PhpRefactoringSettings">
     <option name="EXTRACT_METHOD_DEFAULT_VISIBILITY" value="protected" />
-    <option name="EXTRACT_FIELD_DEFAULT_VISIBILITY" value="protected" />
+    <option name="EXTRACT_FIELD_DEFAULT_VISIBILITY" value="public" />
   </component>
   <component name="RecentTaskRepositories">
     <JIRA shared="false" url="http://jira.100sp.ru">
