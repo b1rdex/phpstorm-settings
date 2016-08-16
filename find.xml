@@ -2,8 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="File '[100sp-vm] - ...\dev.100sp\protected\components\Email.php'" />
     <option name="defaultScopeName" value="File '[100sp-vm] - ...\dev.100sp\protected\components\Email.php'" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="File '[100sp-vm] - ...\dev.100sp\protected\components\Email.php'" />
   </component>
 </application>
