@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[100sp-vm] - ...\dev.100sp\protected\components\Email.php'" />
-    <option name="defaultScopeName" value="File '[100sp-vm] - ...\dev.100sp\protected\components\Email.php'" />
-    <option name="SEARCH_SCOPE" value="File '[100sp-vm] - ...\dev.100sp\protected\components\Email.php'" />
+    <option name="customScope" value="Project Files" />
+    <option name="defaultScopeName" value="Project Files" />
+    <option name="SEARCH_SCOPE" value="Project Files" />
   </component>
 </application>
