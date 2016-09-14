@@ -2,6 +2,7 @@
   <component name="ScratchFileService">
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/buffer1" value="TEXT" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch" value="XML" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.md" value="Markdown" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.php" value="PHP" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.sql" value="MySQL" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.xml" value="XML" />
@@ -10,5 +11,6 @@
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_3.php" value="PHP" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_4.php" value="PHP" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_5.php" value="PHP" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_6.php" value="PHP" />
   </component>
 </application>
