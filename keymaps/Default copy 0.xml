@@ -1,0 +1,6 @@
+<keymap version="1" name="Default copy 0" parent="$default">
+  <action id="ContextHelp" />
+  <action id="ExternalJavaDoc">
+    <keyboard-shortcut first-keystroke="f1" />
+  </action>
+</keymap>
