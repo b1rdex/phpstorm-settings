@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f90d56aa-7ee8-44cf-b8af-913f25f73e11" name="zapil.im" url="http://zapil.im">
+        <fileTransfer host="zapil.im" port="22" rootFolder="/srv/www/" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
