@@ -2,6 +2,7 @@
   <component name="ExternalResourceManagerImpl">
     <resource url="http://partner.market.yandex.ru/pages/help/shops.dtd" location="$USER_HOME$/.PhpStorm2016.2/system/extResources/204980c9_shops.dtd" />
     <resource url="http://schema.phpunit.de/5.5/phpunit.xsd" location="$USER_HOME$/.PhpStorm2016.3/system/extResources/71c6f943_phpunit.xsd" />
+    <resource url="http://schema.phpunit.de/5.6/phpunit.xsd" location="$USER_HOME$/.PhpStorm2016.3/system/extResources/6049ffc4_phpunit.xsd" />
     <resource url="shops.dtd" location="$USER_HOME$/.PhpStorm2016.2/system/extResources/204980c9_shops.dtd" />
   </component>
 </application>
