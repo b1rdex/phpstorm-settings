@@ -9,7 +9,7 @@
     <interpreters>
       <interpreter home="C:\php7\php.exe" id="75ef786e-0896-4f02-9fba-231f3ed1e9c5" name="PHP 7" debugger_id="php.debugger.XDebug" />
       <interpreter home="ssh://vagrant@localhost:2222/usr/bin/php" id="1adf705b-6636-4619-b8af-8747cab9e027" name="Remote PHP 7.1" debugger_id="php.debugger.XDebug">
-        <remote_data HOST="localhost" PORT="2222" ANONYMOUS="false" USERNAME="vagrant" PASSWORD="dfdcdfcbdfcddfd8dfcbdfc4dfde" PRIVATE_KEY_FILE="" MY_KNOWN_HOSTS_FILE="" PASSPHRASE="" USE_KEY_PAIR="false" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
+        <remote_data HOST="localhost" PORT="2222" USERNAME="vagrant" PASSWORD="dfdcdfcbdfcddfd8dfcbdfc4dfde" PRIVATE_KEY_FILE="" MY_KNOWN_HOSTS_FILE="" PASSPHRASE="" USE_KEY_PAIR="false" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
       </interpreter>
     </interpreters>
   </component>
@@ -670,6 +670,9 @@
         </phpinfo>
       </interpreter>
     </phpInfoCache>
+  </component>
+  <component name="PhpSmartKeysConfiguration">
+    <option name="selectVariableNameWithoutDollar" value="true" />
   </component>
   <component name="PhpUnit">
     <phpunit_settings>
