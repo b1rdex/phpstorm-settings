@@ -671,9 +671,6 @@
       </interpreter>
     </phpInfoCache>
   </component>
-  <component name="PhpSmartKeysConfiguration">
-    <option name="selectVariableNameWithoutDollar" value="true" />
-  </component>
   <component name="PhpUnit">
     <phpunit_settings>
       <phpunit_by_interpreter interpreter_id="1adf705b-6636-4619-b8af-8747cab9e027" load_method="CUSTOM_LOADER" bootstrap_file_path="/vagrant/dev.100sp/protected/tests/bootstrap.php" configuration_file_path="/vagrant/dev.100sp/protected/tests/phpunit.xml" custom_loader_path="/vagrant/dev.100sp/vendor/autoload.php" phpunit_phar_path="" use_bootstrap_file="true" use_configuration_file="true" />
