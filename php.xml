@@ -1,5 +1,5 @@
 <application>
-  <component name="PhpAutoImport" auto_import_file_scope="true" />
+  <component name="PhpAutoImport" auto_import_file_scope="true" prepend_global_functions_and_constants="true" />
   <component name="PhpCodeSniffer">
     <phpcs_settings>
       <PhpCSConfiguration />
