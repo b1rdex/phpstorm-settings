@@ -1,8 +1,9 @@
 <application>
   <component name="ParameterNameHintsSettings">
     <blacklists>
-      <blacklist language="PHP">
+      <blacklist language="SQL">
         <added pattern="\sprintf(format,args,_)" />
+        <added pattern="\compact(varname,_)" />
       </blacklist>
     </blacklists>
   </component>
