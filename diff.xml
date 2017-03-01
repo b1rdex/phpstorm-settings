@@ -1,7 +1,17 @@
 <application>
   <component name="DiffManager" COMPARISON_POLICY="Ignore spaces" />
+  <component name="DiffSettings">
+    <option name="PLACES_MAP">
+      <entry key="Default">
+        <PlaceSettings />
+      </entry>
+    </option>
+  </component>
   <component name="TextDiffSettings">
     <option name="PLACES_MAP">
+      <entry key="Default">
+        <PlaceSettings />
+      </entry>
       <entry key="Merge">
         <PlaceSettings>
           <option name="SHOW_LINE_NUMBERS" value="false" />
