@@ -4,6 +4,7 @@
       <blacklist language="SQL">
         <added pattern="\sprintf(format,args,_)" />
         <added pattern="\compact(varname,_)" />
+        <added pattern="\printf(format,args,_)" />
       </blacklist>
     </blacklists>
   </component>
