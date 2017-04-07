@@ -7,19 +7,26 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
       <mask>*.properties</mask>
-      <mask>*.html</mask>
       <mask>*.jsp</mask>
       <mask>*.xml</mask>
       <mask>*.java</mask>
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>*.php</mask>
       <mask>*.s</mask>
       <mask>*.sa</mask>
       <mask>*.sas</mask>
       <mask>*.sass</mask>
+      <mask>*.js=</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.h</mask>
+      <mask>*.ht</mask>
+      <mask>*.htm</mask>
+      <mask>*.html</mask>
+      <mask>*.</mask>
+      <mask>*.ph</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
