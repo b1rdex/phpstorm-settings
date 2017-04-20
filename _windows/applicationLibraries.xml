@@ -33,5 +33,16 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="vlru_block_for_100sp" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_www.vl.ru_vlruimport_static_vlru_block_for_100sp.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_www.vl.ru_vlruimport_static_vlru_block_for_100sp.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
   </component>
 </application>
