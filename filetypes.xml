@@ -5,10 +5,12 @@
       <mapping pattern="composer.lock" type="JSON" />
       <mapping pattern="complaint_with_feedback" type="JSON" />
       <mapping pattern="pages?*.html" type="PHP" />
+      <mapping pattern=".php_cs" type="PHP" />
       <mapping ext="html" type="PHP" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="neon" type="YAML" />
+      <removed_mapping pattern="composer.lock" type="composer.json" />
     </extensionMap>
   </component>
 </application>
