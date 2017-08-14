@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="php-cs-fixer" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="php.exe" />
+      <option name="PARAMETERS" value="C:\100sp-vm\dev.100sp\vendor\friendsofphp\php-cs-fixer\php-cs-fixer fix -vvv --config=C:\100sp-vm\dev.100sp\.php_cs --path-mode=intersection &quot;$FilePath$&quot;" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$/dev.100sp" />
+    </exec>
+  </tool>
+</toolSet>
