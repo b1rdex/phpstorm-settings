@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Project 'dev.100sp'" />
+    <option name="defaultScopeName" value="Project 'dev.100sp'" />
+    <option name="SEARCH_SCOPE" value="Project 'dev.100sp'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
