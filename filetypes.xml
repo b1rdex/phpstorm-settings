@@ -11,6 +11,7 @@
       <mapping pattern="data" type="PLAIN_TEXT" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
+      <mapping ext="mmdb" type="PLAIN_TEXT" />
       <mapping ext="neon" type="YAML" />
       <removed_mapping pattern="composer.lock" type="composer.json" />
     </extensionMap>
