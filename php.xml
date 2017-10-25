@@ -9,14 +9,14 @@
     <interpreters>
       <interpreter home="C:\php7\php.exe" id="75ef786e-0896-4f02-9fba-231f3ed1e9c5" name="PHP 7" debugger_id="php.debugger.XDebug" />
       <interpreter home="ssh://vagrant@localhost:2222/usr/bin/php" id="1adf705b-6636-4619-b8af-8747cab9e027" name="Remote PHP 7.1" debugger_id="php.debugger.XDebug">
-        <remote_data HOST="localhost" PORT="2222" USERNAME="vagrant" PRIVATE_KEY_FILE="" MY_KNOWN_HOSTS_FILE="" USE_KEY_PAIR="false" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
+        <remote_data HOST="localhost" PORT="2222" USERNAME="vagrant" PRIVATE_KEY_FILE="" USE_KEY_PAIR="false" USE_AUTH_AGENT="false" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
       </interpreter>
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="Remote PHP 7.1">
-        <phpinfo binary_type="PHP" php_cgi="/usr/bin/php-cgi" php_cli="/usr/bin/php" path_separator=":" remote_host="10.0.2.2 52502 22" version="7.0.11">
+        <phpinfo binary_type="PHP" php_cgi="/usr/bin/php-cgi" php_cli="/usr/bin/php" path_separator=":" remote_host="10.0.2.2" version="7.0.11">
           <additional_php_ini>/etc/php.d/10-opcache.ini, /etc/php.d/15-xdebug.ini, /etc/php.d/20-bcmath.ini, /etc/php.d/20-bz2.ini, /etc/php.d/20-calendar.ini, /etc/php.d/20-ctype.ini, /etc/php.d/20-curl.ini, /etc/php.d/20-dom.ini, /etc/php.d/20-exif.ini, /etc/php.d/20-fileinfo.ini, /etc/php.d/20-ftp.ini, /etc/php.d/20-gettext.ini, /etc/php.d/20-iconv.ini, /etc/php.d/20-intl.ini, /etc/php.d/20-json.ini, /etc/php.d/20-mbstring.ini, /etc/php.d/20-mysqlnd.ini, /etc/php.d/20-pdo.ini, /etc/php.d/20-phar.ini, /etc/php.d/20-posix.ini, /etc/php.d/20-shmop.ini, /etc/php.d/20-simplexml.ini, /etc/php.d/20-soap.ini, /etc/php.d/20-sockets.ini, /etc/php.d/20-sqlite3.ini, /etc/php.d/20-sysvmsg.ini, /etc/php.d/20-sysvsem.ini, /etc/php.d/20-sysvshm.ini, /etc/php.d/20-tokenizer.ini, /etc/php.d/20-xml.ini, /etc/php.d/20-xmlwriter.ini, /etc/php.d/20-xsl.ini, /etc/php.d/30-mysqli.ini, /etc/php.d/30-pdo_mysql.ini, /etc/php.d/30-pdo_sqlite.ini, /etc/php.d/30-wddx.ini, /etc/php.d/30-xmlreader.ini, /etc/php.d/40-amqp.ini, /etc/php.d/40-apfd.ini, /etc/php.d/40-igbinary.ini, /etc/php.d/40-memcache.ini, /etc/php.d/40-msgpack.ini, /etc/php.d/40-propro.ini, /etc/php.d/40-raphf.ini, /etc/php.d/40-zip.ini, /etc/php.d/50-json_post.ini, /etc/php.d/50-memcached.ini, /etc/php.d/50-redis.ini, /etc/php.d/99-custom.ini</additional_php_ini>
           <configuration_file>/etc/php.ini</configuration_file>
           <configuration_options>
@@ -670,6 +670,9 @@
         </phpinfo>
       </interpreter>
     </phpInfoCache>
+  </component>
+  <component name="PhpSmartKeysConfiguration">
+    <option name="smartFunctionParametersCompletion" value="true" />
   </component>
   <component name="PhpUnit">
     <phpunit_settings>
