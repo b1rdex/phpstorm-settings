@@ -1,12 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <removed_mapping ext="html" type="HTML" />
-      <mapping pattern="composer.lock" type="JSON" />
       <mapping pattern="complaint_with_feedback" type="JSON" />
       <mapping pattern="pages?*.html" type="PHP" />
       <mapping pattern=".php_cs" type="PHP" />
-      <mapping ext="html" type="PHP" />
       <mapping pattern="untitled" type="PLAIN_TEXT" />
       <mapping pattern="data" type="PLAIN_TEXT" />
       <mapping pattern="build1" type="PLAIN_TEXT" />
@@ -15,7 +12,6 @@
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping ext="mmdb" type="PLAIN_TEXT" />
       <mapping ext="neon" type="YAML" />
-      <removed_mapping pattern="composer.lock" type="composer.json" />
     </extensionMap>
   </component>
 </application>
