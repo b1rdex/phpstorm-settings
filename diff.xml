@@ -1,4 +1,14 @@
 <application>
+  <component name="DiffManager" COMPARISON_POLICY="Ignore spaces" />
+  <component name="DiffSettings">
+    <option name="PLACES_MAP">
+      <entry key="Merge">
+        <PlaceSettings>
+          <option name="SYNC_BINARY_EDITOR_SETTINGS" value="false" />
+        </PlaceSettings>
+      </entry>
+    </option>
+  </component>
   <component name="TextDiffSettings">
     <option name="PLACES_MAP">
       <entry key="ChangesView">
