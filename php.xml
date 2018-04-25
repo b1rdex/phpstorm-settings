@@ -1,17 +1,8 @@
 <application>
-  <component name="PhpAutoImport" auto_import_from_global_scope="true" auto_import_file_scope="true" prepend_global_functions_and_constants="true" />
   <component name="PhpCodeSniffer">
     <phpcs_settings>
       <PhpCSConfiguration />
     </phpcs_settings>
-  </component>
-  <component name="PhpInterpreters">
-    <interpreters>
-      <interpreter home="C:\php7\php.exe" id="75ef786e-0896-4f02-9fba-231f3ed1e9c5" name="PHP 7" debugger_id="php.debugger.XDebug" />
-      <interpreter home="ssh://vagrant@localhost:2222/usr/bin/php" id="1adf705b-6636-4619-b8af-8747cab9e027" name="Remote PHP 7.1" debugger_id="php.debugger.XDebug">
-        <remote_data HOST="localhost" PORT="2222" USERNAME="vagrant" PRIVATE_KEY_FILE="" USE_KEY_PAIR="false" USE_AUTH_AGENT="false" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
-      </interpreter>
-    </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
@@ -670,9 +661,6 @@
         </phpinfo>
       </interpreter>
     </phpInfoCache>
-  </component>
-  <component name="PhpSmartKeysConfiguration">
-    <option name="smartFunctionParametersCompletion" value="true" />
   </component>
   <component name="PhpUnit">
     <phpunit_settings>
