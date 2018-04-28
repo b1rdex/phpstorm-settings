@@ -1,4 +1,5 @@
 <application>
+  <component name="PhpAutoImport" global_class_behavior="PREFER_IMPORT" global_constant_behavior="INSERT_FQN" global_function_behavior="INSERT_FQN" />
   <component name="PhpCodeSniffer">
     <phpcs_settings>
       <PhpCSConfiguration />
