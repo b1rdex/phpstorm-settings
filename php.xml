@@ -412,4 +412,9 @@
       </interpreter>
     </phpInfoCache>
   </component>
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <phpunit_by_interpreter interpreter_id="a1dc66c9-60f8-49d8-a145-fcde32a5361c" load_method="CUSTOM_LOADER" custom_loader_path="/vagrant/dev.100sp/vendor/autoload.php" phpunit_phar_path="" />
+    </phpunit_settings>
+  </component>
 </application>
