@@ -3,6 +3,11 @@
     <phpmd_settings_migrated />
   </component>
   <component name="PhpAutoImport" auto_import_file_scope="true" global_class_behavior="PREFER_IMPORT" global_constant_behavior="PREFER_FQN" global_function_behavior="PREFER_FQN" />
+  <component name="PhpCSFixer">
+    <phpcsfixer_settings>
+      <phpcs_fixer_by_interpreter interpreter_id="a1dc66c9-60f8-49d8-a145-fcde32a5361c" standards="PSR1;PSR2;Symfony;DoctrineAnnotation;PHP70Migration;PHP71Migration" tool_path="/vagrant/dev.100sp/vendor/bin/php-cs-fixer" />
+    </phpcsfixer_settings>
+  </component>
   <component name="PhpCodeSniffer">
     <phpcs_settings_migrated />
   </component>
