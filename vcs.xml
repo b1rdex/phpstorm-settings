@@ -34,6 +34,18 @@
           <option name="url" value="https://github.com/b1rdex/ganesha.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.100sp.ru/100sp/php-docker.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.100sp.ru/100sp/gitlab-auto-merge-request.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.100sp.ru/100sp/leanify-docker.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Anatoly\Documents\phpstorm" />
