@@ -1,11 +1,11 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="test" type="Bash" />
       <removed_mapping ext="html" approved="true" type="HTML" />
       <mapping pattern="complaint_with_feedback" type="JSON" />
       <mapping pattern=".php_cs" type="PHP" />
       <mapping ext="html" type="PHP" />
+      <mapping pattern="100sp-test" type="PLAIN_TEXT" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping pattern="build1" type="PLAIN_TEXT" />
       <mapping pattern="build2" type="PLAIN_TEXT" />
@@ -15,6 +15,8 @@
       <mapping pattern="list" type="PLAIN_TEXT" />
       <mapping ext="mmdb" type="PLAIN_TEXT" />
       <mapping ext="neon" type="YAML" />
+      <removed_mapping ext="html" approved="true" type="HTML" />
+      <mapping pattern="test" type="Bash" />
     </extensionMap>
   </component>
 </application>
