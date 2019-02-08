@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project Files" />
-    <option name="defaultScopeName" value="Project Files" />
-    <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="customScope" value="Directory '...\dev.100sp\protected\modules\mp\modules\scoring [dev.100sp]'" />
+    <option name="defaultScopeName" value="Directory '...\dev.100sp\protected\modules\mp\modules\scoring [dev.100sp]'" />
+    <option name="SEARCH_SCOPE" value="Directory '...\dev.100sp\protected\modules\mp\modules\scoring [dev.100sp]'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
