@@ -4,7 +4,7 @@
     <option name="FONT_FAMILY" value="Consolas" />
   </component>
   <component name="EditorSettings">
-    <option name="USE_SOFT_WRAPS" value="" />
+    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
     <option name="ADDITIONAL_PAGE_AT_BOTTOM" value="true" />
   </component>
 </application>

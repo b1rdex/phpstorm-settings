@@ -58,6 +58,14 @@
           <option name="url" value="http://gitlab.100sp.ru" />
           <option name="userName" value="anatoly" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/b1rdex/sassc-binary.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/b1rdex/yii.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/PhpstormProjects" />
