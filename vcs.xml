@@ -55,6 +55,10 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
+          <option name="url" value="https://github.com/b1rdex/dpd-php-sdk.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
           <option name="url" value="http://gitlab.100sp.ru" />
           <option name="userName" value="anatoly" />
         </UrlAndUserName>
