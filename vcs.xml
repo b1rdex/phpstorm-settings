@@ -74,9 +74,13 @@
           <option name="url" value="https://github.com/b1rdex/enum.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.100sp.ru/100sp/gitlab-selenium-server.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/PhpstormProjects" />
+    <option name="cloneParentDir" value="C:\Users\Anatoly\PhpstormProjects" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_TAG_NAMES" value="true" />
