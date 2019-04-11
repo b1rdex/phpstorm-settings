@@ -90,6 +90,10 @@
           <option name="url" value="https://gitlab.100sp.ru/100sp/docker-rabbitmq.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.100sp.ru&quot;" />
+          <option name="userName" value="anatoly" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Anatoly\PhpstormProjects" />
