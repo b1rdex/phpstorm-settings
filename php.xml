@@ -13,25 +13,25 @@
   </component>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter home="ssh://vagrant@localhost:2222/usr/bin/php" id="a1dc66c9-60f8-49d8-a145-fcde32a5361c" name="Remote PHP 7.2" debugger_id="php.debugger.XDebug">
+      <interpreter id="a1dc66c9-60f8-49d8-a145-fcde32a5361c" name="Remote PHP 7.2" home="ssh://DATA" debugger_id="php.debugger.XDebug">
         <remote_data HOST="localhost" PORT="2222" USERNAME="vagrant" PRIVATE_KEY_FILE="" USE_KEY_PAIR="false" USE_AUTH_AGENT="false" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" />
       </interpreter>
-      <interpreter home="\usr\bin\php" id="8db60945-240d-45ac-9aac-4d3b7b891152" name="PHP 7.1" debugger_id="php.debugger.XDebug" />
-      <interpreter home="C:\php7\php.exe" id="17151295-c1ed-48a0-a870-1bc52bea878d" name="PHP 7.2" debugger_id="php.debugger.XDebug" />
-      <interpreter home="C:\php7\php.exe" id="e7b65720-d14c-4b31-9a64-33ba57828c99" name="PHP 7.2 (1)" debugger_id="php.debugger.XDebug" />
+      <interpreter id="8db60945-240d-45ac-9aac-4d3b7b891152" name="PHP 7.1" home="\usr\bin\php" debugger_id="php.debugger.XDebug" />
+      <interpreter id="17151295-c1ed-48a0-a870-1bc52bea878d" name="PHP 7.2" home="C:\php7\php.exe" debugger_id="php.debugger.XDebug" />
+      <interpreter id="e7b65720-d14c-4b31-9a64-33ba57828c99" name="PHP 7.2 (1)" home="C:\php7\php.exe" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="Remote PHP 7.2">
-        <phpinfo binary_type="PHP" php_cgi="/usr/bin/php-cgi" php_cli="/usr/bin/php" path_separator=":" remote_host="10.0.2.2" version="7.2.6">
-          <additional_php_ini>/etc/php.d/10-opcache.ini, /etc/php.d/15-xdebug.ini, /etc/php.d/20-bz2.ini, /etc/php.d/20-calendar.ini, /etc/php.d/20-ctype.ini, /etc/php.d/20-curl.ini, /etc/php.d/20-dom.ini, /etc/php.d/20-exif.ini, /etc/php.d/20-fileinfo.ini, /etc/php.d/20-ftp.ini, /etc/php.d/20-gd.ini, /etc/php.d/20-gettext.ini, /etc/php.d/20-iconv.ini, /etc/php.d/20-intl.ini, /etc/php.d/20-json.ini, /etc/php.d/20-mbstring.ini, /etc/php.d/20-mysqlnd.ini, /etc/php.d/20-pdo.ini, /etc/php.d/20-phar.ini, /etc/php.d/20-posix.ini, /etc/php.d/20-shmop.ini, /etc/php.d/20-simplexml.ini, /etc/php.d/20-soap.ini, /etc/php.d/20-sockets.ini, /etc/php.d/20-sqlite3.ini, /etc/php.d/20-sysvmsg.ini, /etc/php.d/20-sysvsem.ini, /etc/php.d/20-sysvshm.ini, /etc/php.d/20-tokenizer.ini, /etc/php.d/20-xml.ini, /etc/php.d/20-xmlwriter.ini, /etc/php.d/20-xsl.ini, /etc/php.d/30-mysqli.ini, /etc/php.d/30-pdo_mysql.ini, /etc/php.d/30-pdo_sqlite.ini, /etc/php.d/30-wddx.ini, /etc/php.d/30-xmlreader.ini, /etc/php.d/40-amqp.ini, /etc/php.d/40-igbinary.ini, /etc/php.d/40-zip.ini, /etc/php.d/50-redis.ini, /etc/php.d/99-custom.ini</additional_php_ini>
+        <phpinfo binary_type="PHP" php_cgi="/usr/bin/php-cgi" php_cli="/usr/bin/php" path_separator=":" remote_host="10.0.2.2" version="7.3.5">
+          <additional_php_ini>/etc/php.d/10-opcache.ini, /etc/php.d/15-xdebug.ini, /etc/php.d/20-bz2.ini, /etc/php.d/20-calendar.ini, /etc/php.d/20-ctype.ini, /etc/php.d/20-curl.ini, /etc/php.d/20-dom.ini, /etc/php.d/20-exif.ini, /etc/php.d/20-fileinfo.ini, /etc/php.d/20-ftp.ini, /etc/php.d/20-gd.ini, /etc/php.d/20-gettext.ini, /etc/php.d/20-iconv.ini, /etc/php.d/20-intl.ini, /etc/php.d/20-json.ini, /etc/php.d/20-mbstring.ini, /etc/php.d/20-mysqlnd.ini, /etc/php.d/20-pdo.ini, /etc/php.d/20-phar.ini, /etc/php.d/20-posix.ini, /etc/php.d/20-shmop.ini, /etc/php.d/20-simplexml.ini, /etc/php.d/20-soap.ini, /etc/php.d/20-sockets.ini, /etc/php.d/20-sqlite3.ini, /etc/php.d/20-sysvmsg.ini, /etc/php.d/20-sysvsem.ini, /etc/php.d/20-sysvshm.ini, /etc/php.d/20-tokenizer.ini, /etc/php.d/20-xml.ini, /etc/php.d/20-xmlwriter.ini, /etc/php.d/20-xsl.ini, /etc/php.d/30-mysqli.ini, /etc/php.d/30-pdo_mysql.ini, /etc/php.d/30-pdo_sqlite.ini, /etc/php.d/30-wddx.ini, /etc/php.d/30-xmlreader.ini, /etc/php.d/40-amqp.ini, /etc/php.d/40-apcu.ini, /etc/php.d/40-igbinary.ini, /etc/php.d/40-zip.ini, /etc/php.d/50-apc.ini, /etc/php.d/50-redis.ini, /etc/php.d/99-custom.ini</additional_php_ini>
           <configuration_file>/etc/php.ini</configuration_file>
           <configuration_options>
             <configuration_option name="include_path" value=".:/usr/share/pear:/usr/share/php" />
           </configuration_options>
           <debuggers>
-            <debugger_info debugger="xdebug" debugger_version="2.6.0">
+            <debugger_info debugger="xdebug" debugger_version="2.7.2">
               <debug_extensions />
             </debugger_info>
           </debuggers>
@@ -44,6 +44,8 @@
             <extension name="SimpleXML" />
             <extension name="Zend OPcache" />
             <extension name="amqp" />
+            <extension name="apc" />
+            <extension name="apcu" />
             <extension name="bz2" />
             <extension name="calendar" />
             <extension name="ctype" />
@@ -206,50 +208,6 @@
         </phpinfo>
       </interpreter>
       <interpreter name="PHP 7.2 (1)">
-        <phpinfo binary_type="PHP" php_cgi="C:\php7\php-cgi.exe" php_cli="C:\php7\php.exe" path_separator=";" version="7.2.0">
-          <additional_php_ini />
-          <configuration_file>C:\php7\php.ini</configuration_file>
-          <configuration_options>
-            <configuration_option name="include_path" value=".;C:\php\pear" />
-          </configuration_options>
-          <debuggers />
-          <loaded_extensions>
-            <extension name="Core" />
-            <extension name="PDO" />
-            <extension name="Phar" />
-            <extension name="Reflection" />
-            <extension name="SPL" />
-            <extension name="SimpleXML" />
-            <extension name="bcmath" />
-            <extension name="calendar" />
-            <extension name="ctype" />
-            <extension name="curl" />
-            <extension name="date" />
-            <extension name="dom" />
-            <extension name="filter" />
-            <extension name="hash" />
-            <extension name="iconv" />
-            <extension name="intl" />
-            <extension name="json" />
-            <extension name="libxml" />
-            <extension name="mbstring" />
-            <extension name="mysqlnd" />
-            <extension name="openssl" />
-            <extension name="pcre" />
-            <extension name="readline" />
-            <extension name="session" />
-            <extension name="standard" />
-            <extension name="tokenizer" />
-            <extension name="wddx" />
-            <extension name="xml" />
-            <extension name="xmlreader" />
-            <extension name="xmlwriter" />
-            <extension name="zip" />
-            <extension name="zlib" />
-          </loaded_extensions>
-        </phpinfo>
-      </interpreter>
-      <interpreter name="PHP 7.2 (2)">
         <phpinfo binary_type="PHP" php_cgi="C:\php7\php-cgi.exe" php_cli="C:\php7\php.exe" path_separator=";" version="7.2.0">
           <additional_php_ini />
           <configuration_file>C:\php7\php.ini</configuration_file>
