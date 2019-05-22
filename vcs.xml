@@ -98,6 +98,10 @@
           <option name="url" value="https://github.com/b1rdex/comparator.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/b1rdex/text-lang-correct.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Anatoly\PhpstormProjects" />
