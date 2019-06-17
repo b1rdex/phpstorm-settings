@@ -16,6 +16,7 @@
       <mapping pattern="100sp-test" type="PLAIN_TEXT" />
       <mapping pattern="w" type="PLAIN_TEXT" />
       <mapping pattern="list" type="PLAIN_TEXT" />
+      <mapping pattern="entrypoint" type="PLAIN_TEXT" />
       <mapping pattern="update" type="PLAIN_TEXT" />
       <mapping pattern="untitled" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
