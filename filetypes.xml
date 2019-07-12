@@ -1,6 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="*.js.flow" type="Flow" />
       <removed_mapping ext="html" approved="true" type="HTML" />
       <mapping ext="gz" type="Image" />
       <mapping pattern="complaint_with_feedback" type="JSON" />
@@ -10,7 +12,6 @@
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="build2" type="PLAIN_TEXT" />
       <mapping pattern="build1" type="PLAIN_TEXT" />
-      <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping pattern="data" type="PLAIN_TEXT" />
       <mapping pattern="100sp-test" type="PLAIN_TEXT" />
       <mapping pattern="w" type="PLAIN_TEXT" />
@@ -18,8 +19,8 @@
       <mapping pattern="entrypoint" type="PLAIN_TEXT" />
       <mapping pattern="update" type="PLAIN_TEXT" />
       <mapping pattern="untitled" type="PLAIN_TEXT" />
-      <mapping ext="service" type="PLAIN_TEXT" />
       <mapping ext="mmdb" type="PLAIN_TEXT" />
+      <mapping ext="service" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
@@ -28,8 +29,12 @@
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="sh" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".gitattributes" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="html" approved="true" type="HTML" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <mapping pattern="test" type="Bash" />
     </extensionMap>
   </component>
