@@ -9,6 +9,9 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="3c87c60e-e184-4def-aac9-0c53e4467f11" name="dev.100sp" url="http://dev.100sp">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
