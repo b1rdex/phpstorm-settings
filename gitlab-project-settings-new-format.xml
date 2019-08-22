@@ -128,6 +128,72 @@
           <option name="namespace" value="100sp" />
           <option name="sshUrl" value="ssh://git@gitlab.100sp.ru:2233/100sp/spdemon.git" />
         </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.100sp.ru/100sp/100sp.ru.git" />
+          <option name="name" value="100sp.ru" />
+          <option name="namespace" value="100sp" />
+          <option name="sshUrl" value="ssh://git@gitlab.100sp.ru:2233/100sp/100sp.ru.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.100sp.ru/100sp/dependabot.git" />
+          <option name="name" value="dependabot" />
+          <option name="namespace" value="100sp" />
+          <option name="sshUrl" value="ssh://git@gitlab.100sp.ru:2233/100sp/dependabot.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.100sp.ru/100sp/docker-rabbitmq.git" />
+          <option name="name" value="docker-rabbitmq" />
+          <option name="namespace" value="100sp" />
+          <option name="sshUrl" value="ssh://git@gitlab.100sp.ru:2233/100sp/docker-rabbitmq.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.100sp.ru/100sp/gitlab-selenium-server.git" />
+          <option name="name" value="Gitlab selenium server" />
+          <option name="namespace" value="100sp" />
+          <option name="sshUrl" value="ssh://git@gitlab.100sp.ru:2233/100sp/gitlab-selenium-server.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.100sp.ru/100sp/gitlab-auto-merge-request.git" />
+          <option name="name" value="gitlab-auto-merge-request" />
+          <option name="namespace" value="100sp" />
+          <option name="sshUrl" value="ssh://git@gitlab.100sp.ru:2233/100sp/gitlab-auto-merge-request.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.100sp.ru/100sp/leanify-docker.git" />
+          <option name="name" value="leanify-docker" />
+          <option name="namespace" value="100sp" />
+          <option name="sshUrl" value="ssh://git@gitlab.100sp.ru:2233/100sp/leanify-docker.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.100sp.ru/100sp/nginx-access-log-reader.git" />
+          <option name="name" value="Nginx access log reader" />
+          <option name="namespace" value="100sp" />
+          <option name="sshUrl" value="ssh://git@gitlab.100sp.ru:2233/100sp/nginx-access-log-reader.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.100sp.ru/100sp/paygate.git" />
+          <option name="name" value="paygate" />
+          <option name="namespace" value="100sp" />
+          <option name="sshUrl" value="ssh://git@gitlab.100sp.ru:2233/100sp/paygate.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.100sp.ru/100sp/php-docker.git" />
+          <option name="name" value="php-docker" />
+          <option name="namespace" value="100sp" />
+          <option name="sshUrl" value="ssh://git@gitlab.100sp.ru:2233/100sp/php-docker.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.100sp.ru/100sp/pickup.git" />
+          <option name="name" value="pickup" />
+          <option name="namespace" value="100sp" />
+          <option name="sshUrl" value="ssh://git@gitlab.100sp.ru:2233/100sp/pickup.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.100sp.ru/100sp/spdemon.git" />
+          <option name="name" value="spdemon" />
+          <option name="namespace" value="100sp" />
+          <option name="sshUrl" value="ssh://git@gitlab.100sp.ru:2233/100sp/spdemon.git" />
+        </ProjectDto>
       </list>
     </option>
     <option name="gitlabServers">
