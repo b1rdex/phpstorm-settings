@@ -149,6 +149,7 @@
   </inspection_tool>
   <inspection_tool class="PhpVariableVariableInspection" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ProblematicWhitespace" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="RealpathInStreamContextInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="RequiredAttributes" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="myAdditionalRequiredHtmlAttributes" value="property" />
   </inspection_tool>
