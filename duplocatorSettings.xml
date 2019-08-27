@@ -7,4 +7,9 @@
     </option>
     <option name="LAST_SELECTED_LANGUAGE" value="PHP" />
   </component>
+  <component name="MultiLanguageDuplocatorSettings">
+    <object language="PHP">
+      <option name="DISTINGUISH_VARIABLES" value="true" />
+    </object>
+  </component>
 </application>
