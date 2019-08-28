@@ -1,7 +1,0 @@
-<application>
-  <component name="ActionMacroManager">
-    <macro name="Merge origin/master into current branch">
-      <action id="Git.Merge" />
-    </macro>
-  </component>
-</application>
