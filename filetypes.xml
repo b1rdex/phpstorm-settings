@@ -10,6 +10,7 @@
       <mapping pattern="w" type="PLAIN_TEXT" />
       <mapping pattern="entrypoint" type="PLAIN_TEXT" />
       <mapping pattern=".name" type="PLAIN_TEXT" />
+      <mapping pattern=".maintenance" type="PLAIN_TEXT" />
       <mapping pattern="100sp-test" type="PLAIN_TEXT" />
       <mapping pattern="list" type="PLAIN_TEXT" />
       <mapping pattern="data" type="PLAIN_TEXT" />
