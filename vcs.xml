@@ -110,6 +110,10 @@
           <option name="url" value="https://github.com/b1rdex/ascii-table.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/b1rdex/phpstan.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Anatoly\PhpstormProjects" />
@@ -128,6 +132,5 @@
   </component>
   <component name="VcsApplicationSettings">
     <option name="PATCH_STORAGE_LOCATION" value="C:/100sp-vm/dev.100sp/.idea/shelf/zzz-ignored" />
-    <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
   </component>
 </application>
