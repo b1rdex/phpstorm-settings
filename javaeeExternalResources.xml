@@ -7,6 +7,7 @@
     <resource url="http://schema.phpunit.de/5.5/phpunit.xsd" location="$USER_HOME$/.PhpStorm2016.3/system/extResources/71c6f943_phpunit.xsd" />
     <resource url="http://schema.phpunit.de/5.6/phpunit.xsd" location="$USER_HOME$/.PhpStorm2016.3/system/extResources/6049ffc4_phpunit.xsd" />
     <resource url="http://schema.phpunit.de/6.5/phpunit.xsd" location="$USER_HOME$/Library/Caches/PhpStorm2018.3/extResources/cba26384_phpunit.xsd" />
+    <resource url="http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" location="$USER_HOME$/.PhpStorm2019.3/system/extResources/19efb6d3_sitemap.xsd" />
     <resource url="https://getpsalm.org/schema/config" location="$USER_HOME$/.PhpStorm2019.2/system/extResources/63487a0f_config.xml" />
     <resource url="https://schema.org/Person" location="$USER_HOME$/.PhpStorm2019.3/system/extResources/aac5287e_Person.html" />
     <resource url="https://schema.org/Product" location="$USER_HOME$/.PhpStorm2019.2/system/extResources/c3dde4e6_Product.html" />
