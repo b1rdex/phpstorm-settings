@@ -7,7 +7,7 @@
           <list>
             <DockerPathMappingImpl>
               <option name="localPath" value="C:\" />
-              <option name="virtualMachinePath" value="/c/" />
+              <option name="virtualMachinePath" value="/c" />
             </DockerPathMappingImpl>
           </list>
         </option>
