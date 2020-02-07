@@ -2,11 +2,19 @@
   <component name="ActionsLocalSummary">
     <option name="data">
       <map>
+        <entry key="Annotate">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581041870228" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="Back">
           <value>
             <ActionSummary>
-              <option name="last" value="1581037826286" />
-              <option name="times" value="4" />
+              <option name="last" value="1581041866828" />
+              <option name="times" value="5" />
             </ActionSummary>
           </value>
         </entry>
@@ -69,8 +77,8 @@
         <entry key="EditorPaste">
           <value>
             <ActionSummary>
-              <option name="last" value="1581037520498" />
-              <option name="times" value="2" />
+              <option name="last" value="1581041845426" />
+              <option name="times" value="3" />
             </ActionSummary>
           </value>
         </entry>
@@ -101,8 +109,8 @@
         <entry key="FindInPath">
           <value>
             <ActionSummary>
-              <option name="last" value="1581038948752" />
-              <option name="times" value="3" />
+              <option name="last" value="1581041844962" />
+              <option name="times" value="4" />
             </ActionSummary>
           </value>
         </entry>
@@ -133,8 +141,8 @@
         <entry key="GotoDeclaration">
           <value>
             <ActionSummary>
-              <option name="last" value="1581037831394" />
-              <option name="times" value="6" />
+              <option name="last" value="1581041862968" />
+              <option name="times" value="7" />
             </ActionSummary>
           </value>
         </entry>
@@ -266,11 +274,19 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="com.intellij.openapi.ui.impl.DialogWrapperPeerImpl$AnCancelAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581041882177" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581038674036" />
-              <option name="times" value="6" />
+              <option name="last" value="1581041860974" />
+              <option name="times" value="10" />
             </ActionSummary>
           </value>
         </entry>
