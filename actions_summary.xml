@@ -2,6 +2,14 @@
   <component name="ActionsLocalSummary">
     <option name="data">
       <map>
+        <entry key="Back">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581037826286" />
+              <option name="times" value="4" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="CopyReference">
           <value>
             <ActionSummary>
@@ -10,11 +18,27 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="Docker.RemoteServers.StartContainer">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581039209993" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="Docker.RemoteServers.StopContainer">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581039315948" />
+              <option name="times" value="4" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1581034765737" />
-              <option name="times" value="2" />
+              <option name="last" value="1581039140753" />
+              <option name="times" value="7" />
             </ActionSummary>
           </value>
         </entry>
@@ -22,6 +46,14 @@
           <value>
             <ActionSummary>
               <option name="last" value="1581034877570" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="EditorDeleteToWordStart">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581039147477" />
               <option name="times" value="1" />
             </ActionSummary>
           </value>
@@ -37,16 +69,16 @@
         <entry key="EditorPaste">
           <value>
             <ActionSummary>
-              <option name="last" value="1581034757397" />
-              <option name="times" value="1" />
+              <option name="last" value="1581037520498" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="EditorRight">
           <value>
             <ActionSummary>
-              <option name="last" value="1581034767450" />
-              <option name="times" value="1" />
+              <option name="last" value="1581039150571" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
@@ -58,6 +90,62 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="EditorTextEnd">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581039142945" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="FindInPath">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581038948752" />
+              <option name="times" value="3" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="FindUsages">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581037550345" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="Forward">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581037614512" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="Git.Branches">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581037485417" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="GotoDeclaration">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581037831394" />
+              <option name="times" value="6" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="GotoFile">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581039137456" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="RecentFiles">
           <value>
             <ActionSummary>
@@ -66,11 +154,27 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="RemoteServers.ChooseServerDeployment">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581037926050" />
+              <option name="times" value="4" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="SaveAll">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581039172713" />
+              <option name="times" value="4" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="ShowIntentionActions">
           <value>
             <ActionSummary>
-              <option name="last" value="1581034772960" />
-              <option name="times" value="1" />
+              <option name="last" value="1581037640520" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
@@ -98,18 +202,90 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="Tree-selectChild">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581038197688" />
+              <option name="times" value="20" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="Tree-selectNext">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581038194368" />
+              <option name="times" value="8" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="Tree-selectParent">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581038213632" />
+              <option name="times" value="26" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="Tree-selectPrevious">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581038197520" />
+              <option name="times" value="4" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="Vcs.UpdateProject">
           <value>
             <ActionSummary>
-              <option name="last" value="1581034940839" />
-              <option name="times" value="1" />
+              <option name="last" value="1581037476026" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.diagnostic.IdeErrorsDialog$BackAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581038058193" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.diagnostic.IdeErrorsDialog$ForwardAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581038046470" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581039141601" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581034871074" />
+              <option name="last" value="1581038674036" />
+              <option name="times" value="6" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="git4idea.ui.branch.GitBranchPopupActions$RemoteBranchActions$CheckoutRemoteBranchAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581037487792" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="org.jetbrains.plugins.terminal.TerminalView$1">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581037498260" />
               <option name="times" value="2" />
             </ActionSummary>
           </value>
