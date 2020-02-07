@@ -629,8 +629,8 @@
         <entry key="Vcs.UpdateProject">
           <value>
             <ActionSummary>
-              <option name="last" value="1581049282476" />
-              <option name="times" value="8" />
+              <option name="last" value="1581050040544" />
+              <option name="times" value="9" />
             </ActionSummary>
           </value>
         </entry>
@@ -781,8 +781,8 @@
         <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581048986328" />
-              <option name="times" value="32" />
+              <option name="last" value="1581050043031" />
+              <option name="times" value="34" />
             </ActionSummary>
           </value>
         </entry>
