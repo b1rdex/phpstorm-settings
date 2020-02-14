@@ -53,8 +53,8 @@
         <entry key="$Undo">
           <value>
             <ActionSummary>
-              <option name="last" value="1581579394298" />
-              <option name="times" value="563" />
+              <option name="last" value="1581639542968" />
+              <option name="times" value="564" />
             </ActionSummary>
           </value>
         </entry>
@@ -541,8 +541,8 @@
         <entry key="EditorTab">
           <value>
             <ActionSummary>
-              <option name="last" value="1581571809331" />
-              <option name="times" value="20" />
+              <option name="last" value="1581639542180" />
+              <option name="times" value="21" />
             </ActionSummary>
           </value>
         </entry>
@@ -613,8 +613,8 @@
         <entry key="FileStructurePopup">
           <value>
             <ActionSummary>
-              <option name="last" value="1581583454914" />
-              <option name="times" value="28" />
+              <option name="last" value="1581639529352" />
+              <option name="times" value="29" />
             </ActionSummary>
           </value>
         </entry>
@@ -717,8 +717,8 @@
         <entry key="GotoClass">
           <value>
             <ActionSummary>
-              <option name="last" value="1581584074986" />
-              <option name="times" value="61" />
+              <option name="last" value="1581639526608" />
+              <option name="times" value="62" />
             </ActionSummary>
           </value>
         </entry>
@@ -1173,8 +1173,8 @@
         <entry key="Vcs.UpdateProject">
           <value>
             <ActionSummary>
-              <option name="last" value="1581581979003" />
-              <option name="times" value="119" />
+              <option name="last" value="1581639526111" />
+              <option name="times" value="120" />
             </ActionSummary>
           </value>
         </entry>
@@ -1357,8 +1357,8 @@
         <entry key="com.intellij.ide.util.FileStructurePopup$6">
           <value>
             <ActionSummary>
-              <option name="last" value="1581583455978" />
-              <option name="times" value="19" />
+              <option name="last" value="1581639531400" />
+              <option name="times" value="20" />
             </ActionSummary>
           </value>
         </entry>
@@ -1389,8 +1389,8 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581584077506" />
-              <option name="times" value="202" />
+              <option name="last" value="1581639528960" />
+              <option name="times" value="203" />
             </ActionSummary>
           </value>
         </entry>
@@ -1413,8 +1413,8 @@
         <entry key="com.intellij.openapi.updateSettings.impl.UpdateChecker$showNotification$1">
           <value>
             <ActionSummary>
-              <option name="last" value="1581553069948" />
-              <option name="times" value="1" />
+              <option name="last" value="1581639575029" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
@@ -1469,8 +1469,8 @@
         <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581581980278" />
-              <option name="times" value="306" />
+              <option name="last" value="1581639555163" />
+              <option name="times" value="308" />
             </ActionSummary>
           </value>
         </entry>
