@@ -53,8 +53,8 @@
         <entry key="$Undo">
           <value>
             <ActionSummary>
-              <option name="last" value="1581998195839" />
-              <option name="times" value="639" />
+              <option name="last" value="1582001492607" />
+              <option name="times" value="640" />
             </ActionSummary>
           </value>
         </entry>
@@ -141,8 +141,8 @@
         <entry key="CheckinProject">
           <value>
             <ActionSummary>
-              <option name="last" value="1581998598719" />
-              <option name="times" value="79" />
+              <option name="last" value="1582001490343" />
+              <option name="times" value="80" />
             </ActionSummary>
           </value>
         </entry>
@@ -221,8 +221,8 @@
         <entry key="Diff.ShowDiff">
           <value>
             <ActionSummary>
-              <option name="last" value="1581998601671" />
-              <option name="times" value="50" />
+              <option name="last" value="1582001493599" />
+              <option name="times" value="51" />
             </ActionSummary>
           </value>
         </entry>
@@ -389,8 +389,8 @@
         <entry key="EditorDuplicate">
           <value>
             <ActionSummary>
-              <option name="last" value="1581665719088" />
-              <option name="times" value="60" />
+              <option name="last" value="1582001492025" />
+              <option name="times" value="61" />
             </ActionSummary>
           </value>
         </entry>
@@ -709,8 +709,8 @@
         <entry key="Git.Branches">
           <value>
             <ActionSummary>
-              <option name="last" value="1581989985951" />
-              <option name="times" value="98" />
+              <option name="last" value="1582001497974" />
+              <option name="times" value="102" />
             </ActionSummary>
           </value>
         </entry>
@@ -1221,8 +1221,8 @@
         <entry key="Vcs.Push">
           <value>
             <ActionSummary>
-              <option name="last" value="1581989994832" />
-              <option name="times" value="40" />
+              <option name="last" value="1582001498974" />
+              <option name="times" value="42" />
             </ActionSummary>
           </value>
         </entry>
@@ -1245,8 +1245,8 @@
         <entry key="Vcs.UpdateProject">
           <value>
             <ActionSummary>
-              <option name="last" value="1581998135262" />
-              <option name="times" value="152" />
+              <option name="last" value="1582001473238" />
+              <option name="times" value="154" />
             </ActionSummary>
           </value>
         </entry>
@@ -1493,24 +1493,24 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581995222951" />
-              <option name="times" value="254" />
+              <option name="last" value="1582001495353" />
+              <option name="times" value="255" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="com.intellij.openapi.ui.DialogWrapper$5">
           <value>
             <ActionSummary>
-              <option name="last" value="1581652095000" />
-              <option name="times" value="29" />
+              <option name="last" value="1582001486094" />
+              <option name="times" value="31" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="com.intellij.openapi.ui.impl.DialogWrapperPeerImpl$AnCancelAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581990000759" />
-              <option name="times" value="92" />
+              <option name="last" value="1582001482126" />
+              <option name="times" value="93" />
             </ActionSummary>
           </value>
         </entry>
@@ -1533,8 +1533,8 @@
         <entry key="com.intellij.openapi.vcs.changes.ui.ChangesBrowserBase$MyShowDiffAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581657942212" />
-              <option name="times" value="23" />
+              <option name="last" value="1582001500311" />
+              <option name="times" value="24" />
             </ActionSummary>
           </value>
         </entry>
@@ -1573,8 +1573,8 @@
         <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581998627874" />
-              <option name="times" value="378" />
+              <option name="last" value="1582001497187" />
+              <option name="times" value="380" />
             </ActionSummary>
           </value>
         </entry>
@@ -1685,8 +1685,8 @@
         <entry key="git4idea.ui.branch.GitBranchPopupActions$LocalBranchActions$CheckoutAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581989518781" />
-              <option name="times" value="39" />
+              <option name="last" value="1582001468133" />
+              <option name="times" value="40" />
             </ActionSummary>
           </value>
         </entry>
@@ -1701,8 +1701,8 @@
         <entry key="git4idea.ui.branch.GitBranchPopupActions$MergeAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581989988686" />
-              <option name="times" value="8" />
+              <option name="last" value="1582001484805" />
+              <option name="times" value="9" />
             </ActionSummary>
           </value>
         </entry>
