@@ -53,8 +53,8 @@
         <entry key="$Undo">
           <value>
             <ActionSummary>
-              <option name="last" value="1582014197102" />
-              <option name="times" value="758" />
+              <option name="last" value="1582071509158" />
+              <option name="times" value="759" />
             </ActionSummary>
           </value>
         </entry>
@@ -77,8 +77,8 @@
         <entry key="Back">
           <value>
             <ActionSummary>
-              <option name="last" value="1582016325043" />
-              <option name="times" value="616" />
+              <option name="last" value="1582071483215" />
+              <option name="times" value="617" />
             </ActionSummary>
           </value>
         </entry>
@@ -405,8 +405,8 @@
         <entry key="EditorEnter">
           <value>
             <ActionSummary>
-              <option name="last" value="1582014485414" />
-              <option name="times" value="755" />
+              <option name="last" value="1582071507990" />
+              <option name="times" value="756" />
             </ActionSummary>
           </value>
         </entry>
@@ -1205,8 +1205,8 @@
         <entry key="Tree-selectChild">
           <value>
             <ActionSummary>
-              <option name="last" value="1582013508326" />
-              <option name="times" value="169" />
+              <option name="last" value="1582071467237" />
+              <option name="times" value="170" />
             </ActionSummary>
           </value>
         </entry>
@@ -1637,8 +1637,8 @@
         <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582015438121" />
-              <option name="times" value="428" />
+              <option name="last" value="1582071466124" />
+              <option name="times" value="430" />
             </ActionSummary>
           </value>
         </entry>
