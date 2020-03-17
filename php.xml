@@ -1,14 +1,20 @@
 <application>
+  <component name="MessDetector">
+    <phpmd_settings_migrated />
+  </component>
   <component name="PhpAutoImport" auto_import_file_scope="true" global_class_behavior="PREFER_IMPORT" global_constant_behavior="PREFER_FQN" import_on_paste="ALL" />
   <component name="PhpCSFixer">
     <phpcsfixer_settings>
       <phpcs_fixer_by_interpreter interpreter_id="a1dc66c9-60f8-49d8-a145-fcde32a5361c" standards="PSR1;PSR2;Symfony;DoctrineAnnotation;PHP70Migration;PHP71Migration" tool_path="/vagrant/dev.100sp/vendor/bin/php-cs-fixer" />
     </phpcsfixer_settings>
   </component>
+  <component name="PhpCodeSniffer">
+    <phpcs_settings_migrated />
+  </component>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter id="a1dc66c9-60f8-49d8-a145-fcde32a5361c" isInterpreterPathAutoConfigured="true" name="Remote PHP 7.2" home="ssh://DATA" debugger_id="php.debugger.XDebug">
-        <remote_data INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" HOST="localhost" PORT="2222" USERNAME="vagrant" PRIVATE_KEY_FILE="" USE_KEY_PAIR="false" USE_AUTH_AGENT="false" />
+      <interpreter id="a1dc66c9-60f8-49d8-a145-fcde32a5361c" name="Remote PHP 7.2" home="ssh://DATA" debugger_id="php.debugger.XDebug">
+        <remote_data HOST="localhost" PORT="2222" USERNAME="vagrant" PRIVATE_KEY_FILE="" USE_KEY_PAIR="false" USE_AUTH_AGENT="false" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" />
       </interpreter>
       <interpreter id="17151295-c1ed-48a0-a870-1bc52bea878d" name="PHP 7.2" home="C:\php7\php.exe" debugger_id="php.debugger.XDebug" />
     </interpreters>
