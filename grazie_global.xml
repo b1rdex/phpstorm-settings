@@ -6,8 +6,11 @@
         <option value="Russian" />
       </set>
     </option>
-    <option name="nativeLanguage" value="Russian" />
     <option name="enabledCommitIntegration" value="true" />
-    <option name="lastSeenVersion" value="201.5259.13" />
+    <option name="checkingContext">
+      <CheckingContext>
+        <option name="isCheckInCommitMessagesEnabled" value="true" />
+      </CheckingContext>
+    </option>
   </component>
 </application>
