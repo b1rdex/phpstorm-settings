@@ -8,7 +8,7 @@
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter id="a1dc66c9-60f8-49d8-a145-fcde32a5361c" name="Remote PHP 7.2" home="sshConfig://DATA" debugger_id="php.debugger.XDebug">
-        <remote_data INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" SSH_CONFIG_NAME="vagrant@localhost:2222 (p)" SSH_CREDENTIALS_ID="sshConfig://vagrant@localhost:2222 (p)" />
+        <remote_data INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" SSH_CONFIG_ID="7090e3ed-b070-47d8-a3dc-e0db0d5c5b17" SSH_CONFIG_NAME="pashin@cron45.100sp.ru:2233 (p)" SSH_CREDENTIALS_ID="sshConfig://vagrant@localhost:2222 (p)" />
       </interpreter>
       <interpreter id="17151295-c1ed-48a0-a870-1bc52bea878d" name="PHP 7.2" home="C:\php7\php.exe" debugger_id="php.debugger.XDebug" />
     </interpreters>
