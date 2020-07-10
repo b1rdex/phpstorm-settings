@@ -6,10 +6,24 @@
         <option value="Russian" />
       </set>
     </option>
-    <option name="enabledProgrammingLanguages">
-      <set />
+    <option name="enabledGrammarStrategies">
+      <set>
+        <option value="com.intellij.php.grazie:PHP" />
+        <option value="nl.rubensten.texifyidea:Latex" />
+        <option value="org.asciidoctor.intellij.asciidoc:AsciiDoc" />
+      </set>
     </option>
     <option name="enabledCommitIntegration" value="true" />
-    <option name="version" value="1" />
+    <option name="userEnabledRules">
+      <set>
+        <option value="Three_dot" />
+      </set>
+    </option>
+    <option name="checkingContext">
+      <CheckingContext>
+        <option name="isCheckInCommitMessagesEnabled" value="true" />
+        <option name="isCheckInStringLiteralsEnabled" value="true" />
+      </CheckingContext>
+    </option>
   </component>
 </application>
