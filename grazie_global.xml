@@ -20,7 +20,6 @@
     <option name="checkingContext">
       <CheckingContext>
         <option name="isCheckInCommitMessagesEnabled" value="true" />
-        <option name="isCheckInStringLiteralsEnabled" value="true" />
       </CheckingContext>
     </option>
   </component>
