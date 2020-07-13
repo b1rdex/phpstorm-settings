@@ -6,14 +6,12 @@
         <option value="Russian" />
       </set>
     </option>
-    <option name="enabledGrammarStrategies">
+    <option name="enabledCommitIntegration" value="true" />
+    <option name="userDisabledRules">
       <set>
-        <option value="com.intellij.php.grazie:PHP" />
-        <option value="nl.rubensten.texifyidea:Latex" />
-        <option value="org.asciidoctor.intellij.asciidoc:AsciiDoc" />
+        <option value="UNLIKELY_OPENING_PUNCTUATION" />
       </set>
     </option>
-    <option name="enabledCommitIntegration" value="true" />
     <option name="userEnabledRules">
       <set>
         <option value="Three_dot" />
