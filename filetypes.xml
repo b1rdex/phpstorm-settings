@@ -6,23 +6,23 @@
       <mapping pattern="complaint_with_feedback" type="JSON" />
       <mapping pattern=".php_cs" type="PHP" />
       <mapping ext="html" type="PHP" />
-      <mapping pattern="untitled" type="PLAIN_TEXT" />
-      <mapping pattern=".maintenance" type="PLAIN_TEXT" />
       <mapping pattern="entrypoint" type="PLAIN_TEXT" />
-      <mapping pattern=".name" type="PLAIN_TEXT" />
-      <mapping pattern="100sp-test" type="PLAIN_TEXT" />
       <mapping pattern="update" type="PLAIN_TEXT" />
-      <mapping pattern="list" type="PLAIN_TEXT" />
-      <mapping pattern="w" type="PLAIN_TEXT" />
+      <mapping pattern=".name" type="PLAIN_TEXT" />
       <mapping pattern="data" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".maintenance" type="PLAIN_TEXT" />
+      <mapping pattern="untitled" type="PLAIN_TEXT" />
       <mapping pattern="build2" type="PLAIN_TEXT" />
       <mapping pattern="build1" type="PLAIN_TEXT" />
+      <mapping pattern="100sp-test" type="PLAIN_TEXT" />
       <mapping pattern="mail-spool" type="PLAIN_TEXT" />
+      <mapping pattern="w" type="PLAIN_TEXT" />
+      <mapping pattern="list" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="mmdb" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="rb" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
