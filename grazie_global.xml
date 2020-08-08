@@ -6,10 +6,21 @@
         <option value="Russian" />
       </set>
     </option>
-    <option name="enabledProgrammingLanguages">
-      <set />
-    </option>
     <option name="enabledCommitIntegration" value="true" />
-    <option name="version" value="1" />
+    <option name="userDisabledRules">
+      <set>
+        <option value="UNLIKELY_OPENING_PUNCTUATION" />
+      </set>
+    </option>
+    <option name="userEnabledRules">
+      <set>
+        <option value="Three_dot" />
+      </set>
+    </option>
+    <option name="checkingContext">
+      <CheckingContext>
+        <option name="isCheckInCommitMessagesEnabled" value="true" />
+      </CheckingContext>
+    </option>
   </component>
 </application>
