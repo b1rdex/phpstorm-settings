@@ -132,6 +132,9 @@
   <inspection_tool class="PhpRedundantClosingTagInspection" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="PhpSeparateElseIfInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="PhpShortOpenTagInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="PhpStanGlobal" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+    <option name="config" value="C:/100sp-vm/dev.100sp/phpstan.neon" />
+  </inspection_tool>
   <inspection_tool class="PhpStaticAsDynamicMethodCallInspection" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="PhpToStringImplementationInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="STRICT_MODE" value="true" />
