@@ -9,7 +9,7 @@
     <option name="SECONDARY_FONT_FAMILY" value="Fira Code" />
   </component>
   <component name="EditorSettings">
-    <option name="USE_SOFT_WRAPS" value="" />
+    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
     <option name="SOFT_WRAP_FILE_MASKS" value="*" />
     <option name="ADDITIONAL_PAGE_AT_BOTTOM" value="true" />
   </component>
